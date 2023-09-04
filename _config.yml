@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Yan Huang (黄炎)"
+title                    : " Yan Huang (黄炎)/Personal Homepage"
 title_separator          : "-"
 name                     : &name "Yan Huang"
 description              : &description "personal description"
