@@ -14,7 +14,7 @@ Education
 ======
 * B.S. in Automation, Anhui University, 2013-2017
 * M.S. in Control Science and Control Engeneering, Southeast University, 2017-2020
-* Ph.D in Control Science and Control Engeneering, Zhejiang University, 2020-2024 (expected)
+* Ph.D in Control Science and Control Engeneering, Zhejiang University, 2020-2024
 
 Work experience
 ======
