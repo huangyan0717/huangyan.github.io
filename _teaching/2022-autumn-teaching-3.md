@@ -1,7 +1,7 @@
 ---
 title: "Distributed Control and Optimization"
 collection: teaching assistant
-type: "Graduate course"
+type: "Postgraduate course"
 permalink: /teaching/2022-autumn-teaching-3
 venue: "College of Control Science and Engineering，Zhejiang University"
 date: 2022-09-01
