@@ -1,7 +1,7 @@
 ---
 title: "On the Computation-Communication Trade-Off with A Flexible Gradient Tracking Approach"
 collection: publications
-permalink: /publication/CDC2023
+permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023
 venue: 'International Conference on Decision and Contorol'
