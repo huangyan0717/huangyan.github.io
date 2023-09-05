@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " Yan Huang (黄炎)/Personal Homepage"
+title                    : " Yan Huang (黄炎)"
 title_separator          : "-"
 name                     : &name "Yan Huang"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yan Huang (黄炎)"
   avatar           : "YH.jpg"
-  bio              : "PhD Student, Zhejiang University"
+  bio              : "PhD Student,  Zhejiang University"
   location         : "Hangzhou, China"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
