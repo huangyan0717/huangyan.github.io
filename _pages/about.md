@@ -16,7 +16,7 @@ Education
 * M.S. in Control Science and Control Engeneering, Southeast University, 2017-2020
 * Ph.D in Control Science and Control Engeneering, Zhejiang University, 2020-2024
 
-Work experience
+Internship
 ======
 * 2023.02 - 2023.08:  Joint PhD student, ETH Zurich
   * Department of Computer Science, ETH Zurich, Switzerland
