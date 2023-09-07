@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the College of Control Science and Engineering, Zhejiang University, supervised by Prof. Jinming Xu. My current research interests include distributed/federated optimization, large-scale machine learning, and privacy computing.
+I am a Ph.D. student at the College of Control Science and Engineering, Zhejiang University, supervised by Prof. Jinming Xu. My current research interests include distributed/federated optimization, large-scale machine learning, and differentially private computing.
 
 Education
 ======
