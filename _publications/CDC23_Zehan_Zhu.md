@@ -2,7 +2,7 @@
 title: "Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning"
 collection: publications
 permalink: /publication/CDC2023
-excerpt: ''
+excerpt: ' '
 date: 2023-12
 venue: '2023 IEEE 62st Conference on Decision and Control (CDC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10383346/'
