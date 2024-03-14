@@ -1,0 +1,12 @@
+---
+title: "Distributed Optimization with Personalization: A Flexible Algorithmic Framework"
+collection: publications
+permalink: /publication/TAC24
+excerpt: 'Yan Huang, Jinming Xu, Wenchao Meng, Hoi-To Wai and Li Chai'
+date: 2024-03-10
+venue: 'IEEE Transactions on Automatic Control (TAC), regular paper'
+paperurl: ''
+authors: 'Yan Huang, Jinming Xu, Wenchao Meng, Hoi-To Wai and Li Chai'
+---
+
+Abstract: We consider a distributed personalized optimization problem over a network of nodes whose cost functions depend on a decision variable consisting of two parts: global (shared) part and local (node-specific) part. This problem structure arises in several important scenarios where the global part captures the common feature among nodes and the local part represents the personalized feature. To solve this problem, we develop a flexible algorithmic framework employing personalized distributed stochastic gradient tracking method, where each node updates variables locally and communicates the shared part with its neighbors for coordination in a stochastic way. Different from existing works, the proposed framework provides great flexibility in designing algorithms with uncoordinated stepsizes for updating local and global parts over changing topologies. Most importantly, it can eliminate the effect of heterogeneity among nodes thanks to the gradient tracking scheme. Leveraging a properly designed Lyapunov function, we prove the convergence of the proposed algorithm for both (strongly) convex and non-convex objective functions with cross-block Lipschitz gradients. The obtained rate results show clear dependence of the convergence performance on topology, heterogeneity of stepsize and properties of objective functions. Numerical examples are provided to demonstrate the effectiveness of the proposed algorithm accounting for node-specific heterogeneity.
