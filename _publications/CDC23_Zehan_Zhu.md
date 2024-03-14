@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning"
 collection: publications
-permalink: /publication/CDC2023
+permalink: /publication/CDC23_Zehan_Zhu
 excerpt: 'Zehan Zhu, Yan Huang, Chengcheng Zhao and Jinming Xu'
 date: 2023-12-13
 venue: '2023 IEEE 62st Conference on Decision and Control (CDC)'
