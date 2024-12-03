@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a postdoc in the Division of Decision and Control Systems at KTH, Sweden, under the supervision of Prof Karl Henrik Johansson. Before that, I got my Ph.D. at the College of Control Science and Engineering, Zhejiang University, supervised by Prof. Jinming Xu. My research interests include distributed/federated optimization, large-scale machine learning, and differentially private computing.
+Welcome! I am currently a postdoc in the Division of Decision and Control Systems at KTH, Sweden, under the supervision of Prof. Karl Henrik Johansson. Before that, I got my Ph.D. at the College of Control Science and Engineering, Zhejiang University, supervised by Prof. Jinming Xu. My research interests include distributed/federated optimization, large-scale machine learning, and differentially private computing.
 
 Education
 ======
