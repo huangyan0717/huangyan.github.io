@@ -1,6 +1,7 @@
 ---
 title: "R-FAST: Robust Fully-Asynchronous Stochastic Gradient Tracking over General Topology"
 collection: publications
+permalink: /publications/
 label: c_2024_TSIPN_Zehan_Zhu
 excerpt: 'Zehan Zhu, Ye Tian, Yan Huang, Jinming Xu, Shibo He'
 date: 2024-08-30
