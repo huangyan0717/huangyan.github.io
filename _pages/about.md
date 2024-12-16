@@ -33,20 +33,20 @@ Accomplishments
 Publications
 ======
   <ul>
-  <!-- 获取所有个人论文，按文件名筛选并逆序 -->
-  {% assign my_papers = site.publications | where_exp: "post", "post.name contains 'm_'" | sort: "name" | reverse %}
-  
-  <!-- 获取所有合作论文，按文件名筛选并逆序 -->
-  {% assign co_papers = site.publications | where_exp: "post", "post.name contains 'c_'" | sort: "name" | reverse %}
+  <!-- 筛选出个人论文（文件名以 m_ 开头），按文件名逆序排列 -->
+  {% assign my_papers = site.publications | sort: "url" | reverse %}
+  {% assign my_papers = my_papers | where_exp: "post", "post.url contains '/m_'" %}
+
+  <!-- 筛选出合作论文（文件名以 c_ 开头），按文件名逆序排列 -->
+  {% assign co_papers = site.publications | sort: "url" | reverse %}
+  {% assign co_papers = co_papers | where_exp: "post", "post.url contains '/c_'" %}
 
   <!-- 列出个人论文 -->
-  <h3>My Papers</h3>
   {% for post in my_papers %}
     {% include archive-single-cv.html %}
   {% endfor %}
 
   <!-- 列出合作论文 -->
-  <h3>Collaborative Papers</h3>
   {% for post in co_papers %}
     {% include archive-single-cv.html %}
   {% endfor %}
