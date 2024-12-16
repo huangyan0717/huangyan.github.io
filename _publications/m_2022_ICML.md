@@ -1,7 +1,7 @@
 ---
 title: "Tackling Data Heterogeneity: A New Unified Framework for Decentralized SGD with Sample-induced Topology"
 collection: publications
-permalink: /publications/
+permalink: /publications/m_2022_ICML
 label: m_2022_ICML
 excerpt: 'Yan Huang, Ying Sun, Zehan Zhu, Changzhi Yan, Jinming Xu'
 date: 2022-7-8
