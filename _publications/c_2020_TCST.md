@@ -1,7 +1,7 @@
 ---
 title: "Delay Compensation-Based Time Synchronization Under Random Delays: Algorithm and Experiment"
 collection: publications
-permalink: /publications/
+permalink: /publications/c_2020_TCST.md
 label: c_2020_TCST
 excerpt: 'Yu-Ping Tian, Shaoheng Chun, Gan Chen, Siheng Zong, Yan Huang and Bo Wang'
 date: 2020-1-16
