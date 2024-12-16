@@ -25,10 +25,10 @@ Visiting
 
 Accomplishments
 ======
-* ``Outstanding Graduate'', Zhejiang University, 2024
-* ``Outstanding Doctoral Student'', Zhejiang University, 2022 and 2023
+* ''Outstanding Graduate'', Zhejiang University, 2024
+* ''Outstanding Doctoral Student'', Zhejiang University, 2022 and 2023
 * 2nd prize of 14th China Post-graduate Mathematical Contest in Modeling, 2017
-* ``Outstanding Graduate'', Anhui University, 2017
+* ''Outstanding Graduate'', Anhui University, 2017
 
 Publications
 ======
