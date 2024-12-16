@@ -7,8 +7,9 @@ author_profile: true
 
   You can also find my articles on [my google scholar profile](https://scholar.google.com/citations?user=5P3TXU0AAAAJ&hl=en).
 
+
 {% include base_path %}
 
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
