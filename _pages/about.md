@@ -13,15 +13,15 @@ Welcome! I am currently a postdoc in the Division of Decision and Control System
 Education
 ======
 * B.S. in Automation, Anhui University, 2013-2017
-* M.S. in Control Science and Control Engeneering, Southeast University, 2017-2020
-* Ph.D in Control Science and Control Engeneering, Zhejiang University, 2020-2024
+* M.S. in Control Science and Control Engineering, Southeast University, 2017-2020
+* Ph.D in Control Science and Control Engineering, Zhejiang University, 2020-2024
 
-Internship
+Exchange
 ======
-* 2023.02 - 2023.08:  Joint PhD student, ETH Zurich
+* 2023.02 - 2023.08:  Visiting PhD student, ETH Zurich
   * Department of Computer Science, ETH Zurich, Switzerland
-  * Working on distributed adaptive minimax optimization in Optimization and Decision Intelligence (ODI) group
-  * Supervisor: Niao He
+  * Working on distributed adaptive minimax optimization in the Optimization and Decision Intelligence (ODI) group
+  * Host: Niao He
 
 Publications
 ======
