@@ -33,13 +33,11 @@ Accomplishments
 Publications
 ======
   <ul>
-  <!-- 筛选出个人论文（文件名以 m_ 开头），按文件名逆序排列 -->
-  {% assign my_papers = site.publications | sort: "url" | reverse %}
-  {% assign my_papers = my_papers | where_exp: "post", "post.url contains '/m_'" %}
+  <!-- 筛选并逆序排列个人论文 -->
+  {% assign my_papers = site.publications | where_exp: "post", "post.label starts_with 'm_'" | sort: "label" | reverse %}
 
-  <!-- 筛选出合作论文（文件名以 c_ 开头），按文件名逆序排列 -->
-  {% assign co_papers = site.publications | sort: "url" | reverse %}
-  {% assign co_papers = co_papers | where_exp: "post", "post.url contains '/c_'" %}
+  <!-- 筛选并逆序排列合作论文 -->
+  {% assign co_papers = site.publications | where_exp: "post", "post.label starts_with 'c_'" | sort: "label" | reverse %}
 
   <!-- 列出个人论文 -->
   {% for post in my_papers %}
