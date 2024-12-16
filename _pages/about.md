@@ -48,6 +48,6 @@ Publications
   {% for post in co_papers %}
     {% include archive-single-cv.html %}
   {% endfor %}
-</ul>
+  </ul>
 
 
