@@ -4,7 +4,7 @@ collection: publications
 label: m_2024_NeurIPS
 excerpt: 'Yan Huang, Xiang Li, Yipeng Shen, Niao He, Jinming Xu'
 date: 2024-9-26
-venue: 'NeurIPS 2024'
+venue: 'NeurIPS'
 paperurl: 'https://openreview.net/pdf?id=O7IN4nsaIO'
 authors: 'Yan Huang, Xiang Li, Yipeng Shen, Niao He, Jinming Xu'
 ---
