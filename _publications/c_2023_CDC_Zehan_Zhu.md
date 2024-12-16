@@ -1,7 +1,7 @@
 ---
 title: "Asynchronous Byzantine-Robust Stochastic Aggregation with Variance Reduction for Distributed Learning"
 collection: publications
-permalink: /publications/
+permalink: /publications/c_2023_CDC_Zehan_Zhu
 label: c_2023_CDC_Zehan_Zhu
 excerpt: 'Zehan Zhu, Yan Huang, Chengcheng Zhao and Jinming Xu'
 date: 2023-12-13
