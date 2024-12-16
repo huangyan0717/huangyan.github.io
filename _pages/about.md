@@ -32,7 +32,7 @@ Accomplishments
 
 Publications
 ======
-  <ul>
+<ul>
   <!-- 筛选并逆序排列个人论文 -->
   {% assign my_papers = site.publications | where_exp: "post", "post.label starts_with 'm_'" | sort: "label" | reverse %}
 
@@ -41,13 +41,13 @@ Publications
 
   <!-- 列出个人论文 -->
   {% for post in my_papers %}
-    {% include archive-single-cv.html %}
+    <li>{{ post.title }}</li>
   {% endfor %}
 
   <!-- 列出合作论文 -->
   {% for post in co_papers %}
-    {% include archive-single-cv.html %}
+    <li>{{ post.title }}</li>
   {% endfor %}
-  </ul>
+</ul>
 
 
