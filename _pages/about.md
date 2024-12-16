@@ -12,9 +12,9 @@ Welcome! I am currently a postdoc in the Division of Decision and Control System
 
 Education
 ======
-* B.S. in Automation, Anhui University, 2013-2017
-* M.S. in Control Science and Control Engineering, Southeast University, 2017-2020
 * Ph.D in Control Science and Control Engineering, Zhejiang University, 2020-2024
+* M.S. in Control Science and Control Engineering, Southeast University, 2017-2020
+* B.S. in Automation, Anhui University, 2013-2017
 
 Visiting
 ======
