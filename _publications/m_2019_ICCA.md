@@ -1,6 +1,7 @@
 ---
 title: "Detection Performance in m-ary Relay Trees with Link Failures and Unreliable Communications"
 collection: publications
+permalink: /publications/
 label: m_2019_ICCA
 excerpt: 'Yan Huang and Yu-Ping Tian'
 date: 2019-7-19
