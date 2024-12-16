@@ -1,7 +1,7 @@
 ---
 title: "A Loopless Distributed Algorithm for Personalized Bilevel Optimization"
 collection: publications
-permalink: /publication/CDC23_Youcheng_Niu
+label: c_2023_CDC_Youcheng
 excerpt: 'Youcheng Niu, Ying Sun, Yan Huang and Jinming Xu'
 date: 2023-12-13
 venue: '2023 IEEE 62nd Conference on Decision and Control (CDC)'
