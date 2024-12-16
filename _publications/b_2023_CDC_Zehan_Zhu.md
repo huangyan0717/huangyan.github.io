@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/CDC23_Zehan_Zhu
 excerpt: 'Zehan Zhu, Yan Huang, Chengcheng Zhao and Jinming Xu'
 date: 2023-12-13
-venue: '2023 IEEE 62st Conference on Decision and Control (CDC)'
+venue: '2023 IEEE 62nd Conference on Decision and Control (CDC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10383346/'
 authors: 'Zehan Zhu, Yan Huang, Chengcheng Zhao and Jinming Xu'
 ---
