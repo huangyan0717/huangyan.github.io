@@ -33,11 +33,9 @@ Accomplishments
 Publications
 ======
   <ul>
-  {% assign sorted_publications = site.publications | sort: "path" | reverse %}
-  {% for post in sorted_publications %}
+  {% for post in site.publications | reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}
 </ul>
-
 
 
