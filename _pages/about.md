@@ -16,12 +16,19 @@ Education
 * M.S. in Control Science and Control Engineering, Southeast University, 2017-2020
 * Ph.D in Control Science and Control Engineering, Zhejiang University, 2020-2024
 
-Exchange
+Visiting
 ======
 * 2023.02 - 2023.08:  Visiting PhD student, ETH Zurich
   * Department of Computer Science, ETH Zurich, Switzerland
   * Working on distributed adaptive minimax optimization in the Optimization and Decision Intelligence (ODI) group
   * Host: Niao He
+
+Accomplishments
+======
+* ``Outstanding Graduate'', Zhejiang University, 2024
+* ``Outstanding Doctoral Student'', Zhejiang University, 2022 and 2023
+* 2nd prize of 14th China Post-graduate Mathematical Contest in Modeling, 2017
+* ``Outstanding Graduate'', Anhui University, 2017
 
 Publications
 ======
