@@ -1,6 +1,7 @@
 ---
 title: "A Loopless Distributed Algorithm for Personalized Bilevel Optimization"
 collection: publications
+permalink: /publications/
 label: c_2023_CDC_Youcheng
 excerpt: 'Youcheng Niu, Ying Sun, Yan Huang and Jinming Xu'
 date: 2023-12-13
