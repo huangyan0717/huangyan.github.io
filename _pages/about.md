@@ -25,29 +25,17 @@ Visiting
 
 Accomplishments
 ======
-* Outstanding Graduate, Zhejiang University, 2024
-* Outstanding Doctoral Student, Zhejiang University, 2022 and 2023
+* ``Outstanding Graduate'', Zhejiang University, 2024
+* ``Outstanding Doctoral Student'', Zhejiang University, 2022 and 2023
 * 2nd prize of 14th China Post-graduate Mathematical Contest in Modeling, 2017
-* Outstanding Graduate, Anhui University, 2017
+* ``Outstanding Graduate'', Anhui University, 2017
 
 Publications
 ======
-<ul>
-  <!-- 筛选并逆序排列个人论文 -->
-  {% assign my_papers = site.publications | where_exp: "post", "post.label starts_with 'm_'" | sort: "label" | reverse %}
+  <ul>{% for post in site.publications reversed%}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-  <!-- 筛选并逆序排列合作论文 -->
-  {% assign co_papers = site.publications | where_exp: "post", "post.label starts_with 'c_'" | sort: "label" | reverse %}
 
-  <!-- 列出个人论文 -->
-  {% for post in my_papers %}
-    <li>{{ post.title }}</li>
-  {% endfor %}
-
-  <!-- 列出合作论文 -->
-  {% for post in co_papers %}
-    <li>{{ post.title }}</li>
-  {% endfor %}
-</ul>
 
 
