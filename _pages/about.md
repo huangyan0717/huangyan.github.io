@@ -21,7 +21,7 @@ Visiting
 * 2023.02 - 2023.08:  Visiting PhD student, ETH Zurich
   * Department of Computer Science, ETH Zurich, Switzerland
   * Working on distributed adaptive minimax optimization in the Optimization and Decision Intelligence (ODI) group
-  * Host: Niao He
+  * Host: Prof. Niao He
 
 Accomplishments
 ======
