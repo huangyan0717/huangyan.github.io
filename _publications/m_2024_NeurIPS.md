@@ -1,7 +1,7 @@
 ---
 title: "Achieving Near-Optimal Convergence for Distributed Minimax Optimization with Adaptive Stepsizes"
 collection: publications
-permalink: /publication/NeurIPS24
+label: m_2023_CDC
 excerpt: 'Yan Huang, Xiang Li, Yipeng Shen, Niao He, Jinming Xu'
 date: 2022-7-8
 venue: 'NeurIPS 2024'
